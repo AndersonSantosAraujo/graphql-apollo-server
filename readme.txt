@@ -1,4 +1,4 @@
-npx json-server --watch api/data/dados.json
+Playground Tests Querys
 
 query {
   user(id: 5) {
